@@ -1,0 +1,6 @@
+{
+  "name": "CosmoMiner: Starforge Tap",
+  "description": "Compliant Telegram Mini App tap-to-earn cosmic mining game featuring energy recharge, mining rigs, upgrades, and Adsgram-compliant rewarded bonus energy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
