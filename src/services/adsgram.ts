@@ -39,7 +39,7 @@ export interface AdShowCallbacks {
 }
 
 export class AdsgramService {
-  private static defaultBlockId = 'int-7065'; // Adsgram official sample/test rewarded block ID
+  private static defaultBlockId = 'int-54352'; // Adsgram official sample/test rewarded block ID
 
   public static getBlockId(): string {
     const saved = localStorage.getItem('adsgram_block_id');
